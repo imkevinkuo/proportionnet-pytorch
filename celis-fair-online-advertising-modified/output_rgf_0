@@ -1,0 +1,185 @@
+number of key pairs found 1
+[[0, 1]]
+Running keys: 0 ,  1
+numAdv: 2
+Set constraint [[       0.        0.]
+ [10000000. 10000000.]]
+>>Myerson...
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+>>Optimizing...
+Before projection: [[0.12466038 0.87542297]
+ [0.87555009 0.12453304]]
+After projection: [[0.12461871 0.87538129]
+ [0.87550853 0.12449147]]
+        Final coverage from GDCoverage():  [0.12466038 0.87542297]
+        Final coverage error from GDCoverage():  3.473531837172217e-09
+        Final coverage from GDCoverage():  [0.87555009 0.12453304]
+        Final coverage error from GDCoverage():  3.455434494818978e-09
+Initial coverage [[0.12466038 0.87542297]
+ [0.87555009 0.12453304]]
+        Final coverage from GDCoverage():  [0.12466038 0.87542297]
+        Final coverage error from GDCoverage():  3.473531837172217e-09
+        Final coverage from GDCoverage():  [0.87555009 0.12453304]
+        Final coverage error from GDCoverage():  3.455434494818978e-09
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+Result:  [[0.12466038068460386, 0.8755500938726151], [0.8754229683626273, 0.12453303776389969]]
+shift:  [[0.0, 0.0], [0.0, 0.0]]
+revenue 0 =  [4.084607893628191]
+Set constraint [[0.11111111 0.11111111]
+ [8.999991   8.999991  ]]
+>>Myerson...
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+>>Optimizing...
+Before projection: [[0.12466038 0.87542297]
+ [0.87555009 0.12453304]]
+After projection: [[0.12461871 0.87538129]
+ [0.87550853 0.12449147]]
+        Final coverage from GDCoverage():  [0.12466038 0.87542297]
+        Final coverage error from GDCoverage():  3.473531837172217e-09
+        Final coverage from GDCoverage():  [0.87555009 0.12453304]
+        Final coverage error from GDCoverage():  3.455434494818978e-09
+Initial coverage [[0.12466038 0.87542297]
+ [0.87555009 0.12453304]]
+        Final coverage from GDCoverage():  [0.12466038 0.87542297]
+        Final coverage error from GDCoverage():  3.473531837172217e-09
+        Final coverage from GDCoverage():  [0.87555009 0.12453304]
+        Final coverage error from GDCoverage():  3.455434494818978e-09
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+Result:  [[0.12466038068460386, 0.8755500938726151], [0.8754229683626273, 0.12453303776389969]]
+shift:  [[0.0, 0.0], [0.0, 0.0]]
+revenue 1 =  [4.084607893628191]
+Set constraint [[0.25     0.25    ]
+ [3.999998 3.999998]]
+>>Myerson...
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+>>Optimizing...
+Before projection: [[0.12466038 0.87542297]
+ [0.87555009 0.12453304]]
+After projection: [[0.20000058 0.79999803]
+ [0.8000019  0.19999951]]
+        Final coverage from GDCoverage():  [0.19976621 0.79996922]
+        Final coverage error from GDCoverage():  5.5758757158339014e-08
+        Final coverage from GDCoverage():  [0.80027574 0.1998741 ]
+        Final coverage error from GDCoverage():  9.07154310606125e-08
+Initial coverage [[0.19976621 0.79996922]
+ [0.80027574 0.1998741 ]]
+        Final coverage from GDCoverage():  [0.19976621 0.79996922]
+        Final coverage error from GDCoverage():  5.5755208168701744e-08
+        Final coverage from GDCoverage():  [0.80027574 0.1998741 ]
+        Final coverage error from GDCoverage():  9.074432387018618e-08
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[ 0.26556087  0.        ]
+ [-0.26677896  0.        ]]
+Result:  [[0.19976620676887635, 0.8002757427769294], [0.7999692227948689, 0.19987409763852532]]
+shift:  [[0.26556086566119186, 0.0], [-0.26677896054095346, 0.0]]
+revenue 2 =  [4.063397598392408]
+Set constraint [[0.42857142 0.42857142]
+ [2.33333256 2.33333256]]
+>>Myerson...
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+>>Optimizing...
+Before projection: [[0.19976621 0.79996922]
+ [0.80027574 0.1998741 ]]
+After projection: [[0.30000165 0.69999631]
+ [0.70000362 0.29999841]]
+        Final coverage from GDCoverage():  [0.29797856 0.70224141]
+        Final coverage error from GDCoverage():  9.133385411597787e-06
+        Final coverage from GDCoverage():  [0.70216359 0.29787747]
+        Final coverage error from GDCoverage():  9.163854739918068e-06
+Initial coverage [[0.29797856 0.70224141]
+ [0.70216359 0.29787747]]
+        Final coverage from GDCoverage():  [0.29797856 0.70224141]
+        Final coverage error from GDCoverage():  9.13425702042598e-06
+        Final coverage from GDCoverage():  [0.70216359 0.29787747]
+        Final coverage error from GDCoverage():  9.162995273625503e-06
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[ 0.544322    0.        ]
+ [-0.54548795  0.        ]]
+Result:  [[0.29797855878490254, 0.7021635915743678], [0.7022414104380768, 0.2978774732499846]]
+shift:  [[0.5443219966356645, 0.0], [-0.5454879458217536, 0.0]]
+revenue 3 =  [3.9835348804001907]
+Set constraint [[0.66666666 0.66666666]
+ [1.49999963 1.49999963]]
+>>Myerson...
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+>>Optimizing...
+Before projection: [[0.29797856 0.70224141]
+ [0.70216359 0.29787747]]
+After projection: [[0.40000376 0.59999446]
+ [0.60000549 0.3999963 ]]
+        Final coverage from GDCoverage():  [0.39793744 0.60234235]
+        Final coverage error from GDCoverage():  9.782291936643676e-06
+        Final coverage from GDCoverage():  [0.60212652 0.39792819]
+        Final coverage error from GDCoverage():  8.775810144961688e-06
+Initial coverage [[0.39793744 0.60234235]
+ [0.60212652 0.39792819]]
+        Final coverage from GDCoverage():  [0.39793744 0.60234235]
+        Final coverage error from GDCoverage():  9.634583607333698e-06
+        Final coverage from GDCoverage():  [0.60212652 0.39792819]
+        Final coverage error from GDCoverage():  8.915686718286697e-06
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[ 0.78445743  0.        ]
+ [-0.78577338  0.        ]]
+Result:  [[0.3979374411300268, 0.6021265186828844], [0.602342350276875, 0.39792819172679733]]
+shift:  [[0.7844574265818156, 0.0], [-0.7857733804425407, 0.0]]
+revenue 4 =  [3.850224098896688]
+Set constraint [[0.99999998 0.99999998]
+ [0.9999998  0.9999998 ]]
+>>Myerson...
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[0. 0.]
+ [0. 0.]]
+>>Optimizing...
+Before projection: [[0.39793744 0.60234235]
+ [0.60212652 0.39792819]]
+After projection: [[0.4999484  0.50005166]
+ [0.4999483  0.50005165]]
+GDCoverage quit early!
+        Final coverage from GDCoverage():  [0.52241853 0.47764583]
+        Final coverage error from GDCoverage():  0.001006927443499953
+GDCoverage quit early!
+        Final coverage from GDCoverage():  [0.48045069 0.51987348]
+        Final coverage error from GDCoverage():  0.0007730617965145057
+Initial coverage [[0.52241853 0.47764583]
+ [0.48045069 0.51987348]]
+        Final coverage from GDCoverage():  [0.49927821 0.50105553]
+        Final coverage error from GDCoverage():  9.418520882098152e-06
+        Final coverage from GDCoverage():  [0.50074403 0.49932476]
+        Final coverage error from GDCoverage():  6.415286108079266e-07
+        Final coverage from GDCoverage():  [0.49927821 0.50105553]
+        Final coverage error from GDCoverage():  1.3732948472845856e-06
+        Final coverage from GDCoverage():  [0.50074403 0.49932476]
+        Final coverage error from GDCoverage():  1.240083409199788e-06
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]] [[ 0.99826347  0.        ]
+ [-0.99900291  0.        ]]
+Result:  [[0.4992782083286721, 0.5007440344647438], [0.5010555322574775, 0.4993247560166915]]
+shift:  [[0.9982634659586521, 0.0], [-0.9990029080138163, 0.0]]
+revenue 5 =  [3.6692403571237735]
+[[[0.12466038 0.87555009]
+  [0.87542297 0.12453304]]]
+[[[0.49927821 0.50074403]
+  [0.50105553 0.49932476]]]
+Shift for p=0.5 [[[0.9982634659586521, 0.0], [-0.9990029080138163, 0.0]]]
+[[0.12466038 0.87555009]
+ [0.87542297 0.12453304]]
+Results for p=0 [[0.1246341484, 0.8753658516], [0.8754614833, 0.1245385167]]
+[[0.49927821 0.50074403]
+ [0.50105553 0.49932476]]
+Results for p=0.5 [[0.4992671032, 0.5007328968], [0.5008650591, 0.4991349409]]
+--- 2.6440954208374023 seconds ---
+Time to run experiment: 2.7833786010742188 seconds 

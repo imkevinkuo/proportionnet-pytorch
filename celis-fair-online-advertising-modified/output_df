@@ -1,0 +1,20 @@
+key: 0 , adv: 0
+calling distribution fitting
+on agent: 0
+saving fs
+key: 0 , adv: 1
+calling distribution fitting
+on agent: 1
+saving fs
+key: 1 , adv: 0
+calling distribution fitting
+on agent: 0
+saving fs
+key: 1 , adv: 1
+calling distribution fitting
+on agent: 1
+saving fs
+[]
+Time taken : 0.07682013511657715 seconds
+distributionFitting.py:165: RuntimeWarning: divide by zero encountered in double_scalars
+  return x_range[i] - (1 - cum_values[i] / pdf_fitted[i])

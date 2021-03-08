@@ -1,0 +1,19 @@
+getting raw data...
+Building arrays.
+mkdir: cannot create directory ‘raw_data’: File exists
+Reading f.
+0, 0, 1.0
+got raw data. cleaning data...
+mkdir: cannot create directory ‘data’: File exists
+Finding bad advertisers
+0
+100.0 % of bids retained.
+Modifing keys
+0
+dump clean key
+cleaned data. finding correlation and counting bids...
+0
+0
+Fraction of suitable pairs: 0.25
+Fraction of suitable pairs: 0.5
+done.
